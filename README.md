@@ -4,7 +4,7 @@ MSc student in **Space and Astronautical Engineering** at Sapienza University of
 (all exams completed), working on **astrodynamics, flight dynamics and mission analysis**.
 
 I am looking for a **6-month internship with Master's thesis** in flight dynamics,
-trajectory design or GNC, starting from [MONTH 2026].
+trajectory design or GNC, starting from October 2026.
 
 ### Projects
 
